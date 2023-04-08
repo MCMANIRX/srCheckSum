@@ -1,0 +1,8 @@
+0033A2E0
+z_un_0033a2e0
+
+0033bd90 <-- start of fcn
+
+0033bdec <-- end of fcn
+
+00333d84 = random seed gen
